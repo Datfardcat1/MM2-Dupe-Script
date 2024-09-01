@@ -3,8 +3,8 @@
 - Work on all executor!
 - Mobile Fix!
 ----------------------------
-Feature
+  Feature
 ----------------------------
--duplicate any knife
+- duplicate any knife
 
--Trade Scam added !
+- Trade Scam added !
